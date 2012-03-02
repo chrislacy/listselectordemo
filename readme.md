@@ -4,5 +4,5 @@ Modified slightly to work under Android 4.0
 
 
 Example:
-![Example Image](http://i.imgur.com/GVySs.png "Example")
+![Example Image](http://i.imgur.com/GVySs.png)
 
