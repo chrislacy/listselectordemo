@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">List Selector Demo</string>
+    <string name="credit">Source code for Amir\'s Android Selectors <a href="http://goo.gl/obGZM">tutorial</a>.</string>
+
+</resources>
